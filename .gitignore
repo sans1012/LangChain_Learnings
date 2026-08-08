@@ -1,0 +1,23 @@
+# Python virtual environments
+ai_env/
+.venv/
+venv/
+env/
+LangChain_Learnings/
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
